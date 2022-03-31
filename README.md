@@ -6,6 +6,7 @@ Datasource variable description:
 Scenario_Data source_Method of creating a reference map 
 
 Scenario:
+
 S1 - Scenario 1. Corridor in Institute of Electronics
 
 S2 - Scenario 2. Sports Bay - localization error
