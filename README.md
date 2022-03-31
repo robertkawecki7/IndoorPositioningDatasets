@@ -11,6 +11,9 @@ S1 - Scenario 1. Corridor in Institute of Electronics at Lodz University of Tech
 
 S2 - Scenario 2. Sports and Education Centre “Sports Bay” at Lodz University of Technology in Poland
 
+S3 - Scenario 3. IPIN database - Barsocchi, P.; Crivello, A.; La Rosa, D.; Palumbo, F. A multisource and multivariate dataset for indoor localization methods based on WLAN and geo-magnetic field fingerprinting. In Proceedings of the 2016 International Conference on Indoor Positioning and Indoor Navigation, IPIN 2016; 2016. https://archive.ics.uci.edu/ml/datasets/Geo-Magnetic+field+and+WLAN+dataset+for+indoor+localisation+from+wristband+and+smartphone
+
+
 Data source:
 Source1
 Source2
